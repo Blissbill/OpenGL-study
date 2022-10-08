@@ -1,9 +1,9 @@
 # Build folders
-OpenGL_study/bin/*
-OpenGL_study/bin-int/*
+bin/*
+bin-int/*
 
 # VS files
-OpenGL_study/.vs/*
+.vs/*
 *.user
 *.filters
 
