@@ -1,3 +1,12 @@
+# Build folders
+OpenGL_study/bin/*
+OpenGL_study/bin-int/*
+
+# VS files
+OpenGL_study/.vs/*
+*.user
+*.filters
+
 # Prerequisites
 *.d
 
@@ -24,7 +33,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
